@@ -9,6 +9,6 @@ int main()
 
     int codASCII;
     scanf("%d", &codASCII);
-    printf("Caracterul corespunzãtor codului ASCII %d este: %c\n", codASCII, (char)codASCII);
+    printf("Caracterul corespunzator codului ASCII %d este: %c\n", codASCII, (char)codASCII);
     return 0;
 }
