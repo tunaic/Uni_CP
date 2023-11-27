@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699542522 source:d:\pc\teme pc\toth_antonio_s06\toth_antonio_s06\toth_antonio_s06_sah.c
+	<stdio.h>
+	"Toth_Antonio_s06_sah.h"
+
+1699466782 d:\pc\teme pc\toth_antonio_s06\toth_antonio_s06\toth_antonio_s06_sah.h
+
+1699542655 source:d:\pc\teme pc\toth_antonio_s06\toth_antonio_s06\main.c
+	<stdio.h>
+	"Toth_Antonio_s06_sah.h"
+
