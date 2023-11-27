@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699703283 source:d:\pc\lab\lab 06\set01\functii.c
+	<stdio.h>
+	<float.h>
+	"functii.h"
+
+1699703128 d:\pc\lab\lab 06\set01\functii.h
+
+1699703128 source:d:\pc\lab\lab 06\set01\main.c
+	<stdio.h>
+	"functii.h"
+
