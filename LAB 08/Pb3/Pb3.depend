@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700551817 source:d:\pc\lab\lab08\pb3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prb3.h"
+
+1700551896 d:\pc\lab\lab08\pb3\prb3.h
+
+1700552380 source:d:\pc\lab\lab08\pb3\prb3.c
+	<stdio.h>
+	<stdlib.h>
+	"prb3.h"
+
